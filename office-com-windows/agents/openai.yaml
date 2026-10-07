@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word/PPT 自动化 (Windows)"
+  short_description: "用 Office COM 读写文档、导出 PDF 与渲染校验"
+  default_prompt: "Use $office-com-windows to read the attached .doc/.pptx and render the result for visual checking."

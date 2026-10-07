@@ -1,0 +1,4 @@
+interface:
+  display_name: "实验报告前四项"
+  short_description: "用实验 PPT 完成报告模板前四项，配图配公式并渲染校验"
+  default_prompt: "Use $lab-report-first-four-sections to complete the first four sections of the attached lab report template from the attached experiment PPT."

@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Office / OS junk
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store
