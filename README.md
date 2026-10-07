@@ -145,3 +145,7 @@ outputs/report_assets/
 - 老格式 `.ppt` 需要先转成 `.pptx` 再取图（`office-com-windows` 可以读 `.ppt` 并导出幻灯片图）。
 - 整页说明书的扫描图不会被当成插图；其文字会被转写进正文。
 - 分辨率过低的源图（例如 200×153 的截图）不会硬塞进报告，会在交付说明里单独提示。
+
+## 许可证
+
+[MIT License](LICENSE) © 2026 yangzi0808
